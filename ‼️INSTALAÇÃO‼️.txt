@@ -1,0 +1,32 @@
+[ Toda vez que aparecer y/n sempre e y e sa enter ]
+
+
+////////////////////\
+_1 COMANDOS :
+
+termux-change-repo
+
+APERTA OK 2 vezes
+_________________________
+2 termux-setup-storage
+_________________________
+3 cd /sdcard/KIRITO-BOT
+
+ou
+
+cd /sdcard/download/KIRITO-BOT
+_________________________
+4 sh instalar.sh
+_________________________
+5 sh start.sh
+////////////////////\
+
+////
+Relatório da atualização do bot
+
+Foi adicionados botões mais comandos e algumas modificações na conexão do bot
+////
+
+
+
+sandro-bot DOMINA🥶❤️
